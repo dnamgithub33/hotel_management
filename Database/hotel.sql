@@ -1,11 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 3.1.3.1
--- http://www.phpmyadmin.net
---
--- Host: localhost
--- Generation Time: Mar 25, 2010 at 10:54 PM
--- Server version: 5.1.33
--- PHP Version: 5.2.9
+-- author ISPCLUB-TheDoubleW
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
